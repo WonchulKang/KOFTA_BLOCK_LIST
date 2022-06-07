@@ -322,3 +322,4 @@
 127.0.0.1 whoishard.com
 127.0.0.1 drive.google.com
 127.0.0.1 docs.google.com
+127.0.0.1 sheets.google.com
