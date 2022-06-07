@@ -320,3 +320,5 @@
 192.168.10.20 huddle.com
 192.168.10.20 whoisdesk.net
 192.168.10.20 whoishard.com
+192.168.10.20 drive.google.com
+192.168.10.20 docs.google.com
